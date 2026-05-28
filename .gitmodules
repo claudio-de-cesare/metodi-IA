@@ -1,0 +1,3 @@
+[submodule "SPOTS-10"]
+	path = SPOTS-10
+	url = https://github.com/Amotica/SPOTS-10.git
